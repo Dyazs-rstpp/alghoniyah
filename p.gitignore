@@ -1,0 +1,26 @@
+
+# Environment dan konfigurasi rahasia
+.env
+.env.*
+!.env.example
+
+# Log dan file sementara
+*.log
+*.tmp
+
+# Cache
+.cache/
+tmp/
+
+# Backup database pribadi
+*.sql
+*.sql.zip
+*.bak
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependency
+/vendor/
