@@ -1,4 +1,4 @@
-# Starter Proyek SMK TPI Al-Ghoniyyah
+# Panduan Proyek SMK TPI Al-Ghoniyyah
 
 Stack: PHP Native, MySQL/MariaDB (XAMPP), Bootstrap.
 
@@ -35,7 +35,7 @@ Dokumen PPDB, akademik, dan alumni bersifat privat dan disimpan di `storage/priv
 Schema ini adalah baseline pengembangan. Uji pada versi MySQL/MariaDB yang terpasang di XAMPP sebelum dipakai, lalu lakukan backup sebelum migrasi/perubahan struktur.
 
 
-# MASTER PROMPT — PENGEMBANGAN SISTEM INFORMASI SEKOLAH SMK TPI AL-GHONIYYAH
+PENGEMBANGAN SISTEM INFORMASI SEKOLAH SMK TPI AL-GHONIYYAH
 
 **Versi Progres: 6 November 2026**
 
